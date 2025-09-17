@@ -26,3 +26,6 @@ It aims to create a simple converter that transforms an input image (`sloth.png`
 
 ```bash
 make
+```
+
+Note: the output image is uploaded as a demonstration that the code runs
